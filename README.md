@@ -17,6 +17,16 @@ The initial dataset was cleaned to ensure accuracy and consistency. This involve
 
 ### Dashboards
 
+#### Training Tasks
+This dashboard includes additional visualizations and information created during training sessions, aimed at enhancing data analysis skills.
+
+- **Demographic Analysis**: Visualizes the demographic breakdown of tweet engagement, including age, gender, and location.
+- **Sentiment Analysis**: Analyzes the sentiment of tweets (positive, negative, neutral) and their correlation with engagement metrics.
+- **Hashtag Performance**: Evaluates the performance of different hashtags in terms of engagement, reach, and impressions.
+- **Time Series Analysis**: Shows the impact of posting times on tweet engagement, helping identify optimal posting times.
+
+![Training Tasks Dashboard](training_tasks_dashboard.png)
+
 #### Internship Tasks
 This dashboard focuses on specific tasks assigned during the internship, analyzing various aspects of tweet engagement.
 
@@ -37,17 +47,7 @@ This dashboard focuses on specific tasks assigned during the internship, analyzi
     - **Pie Chart**: Represents the proportion of total clicks (URL clicks, user profile clicks, and hashtag clicks) for tweets with more than 500 impressions.
     - **Drill-Down**: Allows viewing the specific types of clicks for each tweet.
 
-![Internship Tasks Dashboard](images/internship_tasks_dashboard.png)
-
-#### Training Tasks
-This dashboard includes additional visualizations and information created during training sessions, aimed at enhancing data analysis skills.
-
-- **Demographic Analysis**: Visualizes the demographic breakdown of tweet engagement, including age, gender, and location.
-- **Sentiment Analysis**: Analyzes the sentiment of tweets (positive, negative, neutral) and their correlation with engagement metrics.
-- **Hashtag Performance**: Evaluates the performance of different hashtags in terms of engagement, reach, and impressions.
-- **Time Series Analysis**: Shows the impact of posting times on tweet engagement, helping identify optimal posting times.
-
-![Training Tasks Dashboard](images/training_tasks_dashboard.png)
+![Internship Tasks Dashboard](internship_tasks_dashboard.png)
 
 ## Getting Started
 
