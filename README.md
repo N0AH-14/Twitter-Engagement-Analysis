@@ -8,7 +8,6 @@ This repository contains a Power BI project that analyzes Twitter engagement met
 - `Twitter_Engagement_Analysis.pbix`: The Power BI report file.
 - `Twitter_Engagement_Analysis.pbit`: The Power BI template file.
 - `Report.pdf`: A detailed report on the analysis and findings.
-- `images/`: Folder containing images of the dashboards.
 
 ## Project Overview
 
