@@ -76,10 +76,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [work.noah14@gmail.com](mailto:work.noah14@gmail.com).
 
 ---
 
 ### Acknowledgements
-- The data used in this project was sourced from Twitter.
+- The data used in this project was sourced from Kaggle.
 - Special thanks to the Power BI community for their resources and support.
