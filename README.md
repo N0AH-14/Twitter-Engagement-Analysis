@@ -57,7 +57,7 @@ This dashboard focuses on specific tasks assigned during the internship, analyzi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/twitter-engagement-analysis.git
+    git clone https://github.com/N0AH-14/Twitter-Engagement-Analysis
     ```
 
 2. **Open the Power BI file**:
