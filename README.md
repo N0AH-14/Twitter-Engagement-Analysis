@@ -44,7 +44,7 @@ This dashboard focuses on specific tasks assigned during the internship, analyzi
 
 4. **Click Proportion**
     - **Pie Chart**: Represents the proportion of total clicks (URL clicks, user profile clicks, and hashtag clicks) for tweets with more than 500 impressions.
-    - **Drill-Down**: Allows viewing the specific types of clicks for each tweet.
+    - **Drill-Down**: Allows viewing the specific types of clicks for each tweet after using the "Expand All Down One Level in Hierarchy" option, It would be a Fork symbol.
 
 ![Internship Tasks Dashboard](internship_tasks_dashboard.png)
 
